@@ -8,7 +8,7 @@ This document summarizes the introductory session of the **Tools in Data Science
 
 - **Course:** Tools in Data Science (TDS)
 - **Session:** Week 1 – Session 1
-- **Mode:** Recorded Online Session
+- **Mode:** Recorded Online Session (https://youtu.be/B7iHBHCruCc)
 - **Focus Area:** Tools, logistics, projects, and environment setup
 
 ---
