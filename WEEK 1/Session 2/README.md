@@ -7,7 +7,7 @@ This document summarizes the second session of the Tools in Data Science (TDS) c
 ## Session Details
 **Course:** Tools in Data Science (TDS)  
 **Session:** Week 1 – Session 2  
-**Mode:** Recorded Online Session  
+**Mode:** Recorded Online Session (https://youtu.be/RoRy1jKewhA)  
 **Focus Area:** WSL installation, environment setup, and Git workflow  
 
 ---
