@@ -79,9 +79,3 @@ The session introduced the overall structure of the TDS course, covering course 
 ## Outcome
 
 This session laid a strong foundation for the Tools in Data Science course and clarified expectations for future assignments, projects, and environment setup required for AI and data science development.
-
----
-
-## Blockers
-
-- No blockers faced during this session
