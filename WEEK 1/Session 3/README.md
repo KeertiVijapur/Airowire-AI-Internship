@@ -7,7 +7,9 @@ This document summarizes the third session of the Tools in Data Science (TDS) co
 ## Session Details
 **Course:** Tools in Data Science (TDS)  
 **Session:** Week 1 – Session 3  
-**Mode:** Recorded Online Session (https://www.youtube.com/watch?v=sXlsRhw5X94&feature=youtu.be)
+**Mode:** Recorded Online Session
+(https://www.youtube.com/watch?v=sXlsRhw5X94&feature=youtu.be)
+
 **Focus Area:** Linux file systems, WSL internals, command-line usage, and LLM tooling  
 
 ---
