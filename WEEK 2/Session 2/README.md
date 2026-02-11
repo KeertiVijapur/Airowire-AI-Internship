@@ -7,7 +7,8 @@ This document summarizes the second session of Week 2 of the Tools in Data Scien
 ## Session Details
 **Course:** Tools in Data Science (TDS)  
 **Session:** Week 2 – Session 2  
-**Mode:** Recorded Online Session  
+**Mode:** Recorded Online Session (https://youtu.be/4ojO3e2PmP8)
+
 **Focus Area:** Podman vs Docker, GitHub Pages, FastAPI, Vercel deployment, and ngrok  
 
 ---
