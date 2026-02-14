@@ -2,54 +2,54 @@
 
 This repository documents my learning progress, activities, and outcomes during my internship in the **Artificial Intelligence (AI) domain** at **Airowire Networks Private Limited**.
 
-All learning materials, notes, and references are maintained in a **structured, module-wise and session-wise** format as part of the internship documentation requirements.
+All learning materials, notes, and references are maintained in a **structured, week-wise and session-wise format** as part of the internship documentation requirements.
 
 ---
 
 ## Internship Details
 
-- **Name:** Keerti V Vijapur
+- **Name:** Keerti V Vijapur  
+- **USN:** 2BL22IS018  
+- **Department:** ISE  
 - **Organization:** Airowire Networks Private Limited  
 - **Domain:** Artificial Intelligence (AI)  
-- **Department:** ISE
-- **USN:** 2BL22IS018
 - **Internship Start Date:** 03 February 2026  
-- **GitHub Repository Type:** Learning & Documentation  
+- **Repository Type:** Learning & Technical Documentation  
 
 ---
 
 ## Objectives
 
-- Build a strong foundation in Artificial Intelligence and Data Science tools  
-- Understand real-world development workflows and tooling  
+- Build a strong foundation in Artificial Intelligence concepts and tools  
+- Understand real-world development workflows used in AI systems  
 - Maintain clear and consistent technical documentation  
 - Track learning progress systematically  
-- Practice Git and GitHub through daily updates  
+- Practice Git and GitHub through continuous updates  
 
 ---
 
 ## Course Reference
 
-- **Tools in Data Science (TDS):**  
-  https://tds.s-anand.net/#/
+**Tools in Data Science (TDS):**  
+https://tds.s-anand.net/#/
 
-This course forms the core learning reference for environment setup, tooling, and foundational AI workflows.
+This course acts as the primary learning resource for environment setup, development tooling, API workflows, and modern AI practices.
 
 ---
 
 ## Repository Structure
 
-The repository is organized to make learning easy to track and review:
+The repository is organized to allow easy navigation and progress tracking:
 
 - **Week-wise / Session-wise learning logs**
-- **Module-wise folders**
-- **Session and chapter-level documentation**
-- **Reference materials and useful resources**
+- **Module-wise documentation**
+- **Concept explanations and practical workflows**
+- **Reference materials and resources**
 
-Each folder contains a `README.md` file documenting:
-- Key concepts  
-- Tools and configurations  
-- Commands and workflows  
+Each folder contains a `README.md` describing:
+- Key concepts learned  
+- Tools and configurations used  
+- Commands and workflows practiced  
 - Learnings and outcomes  
 
 ---
@@ -59,51 +59,51 @@ Each folder contains a `README.md` file documenting:
 | Module | Focus Area | Status |
 |------|-----------|--------|
 | Module 01 | Foundations & Development Tools | In Progress |
-| Module 02 | Tools & Implementation | Not Started |
-| Module 03 | Project Work | Not Started |
+| Module 02 | Tools & Implementation | Upcoming |
+| Module 03 | Project Work | Upcoming |
 
 ---
 
 ## Learning & Documentation Workflow
 
-- Learn from sessions, videos, and reference material  
-- Document learnings in the appropriate module/session folder  
-- Maintain clear and structured markdown notes  
-- Commit changes regularly with meaningful messages  
-- Push updates to GitHub to track progress  
+1. Attend session / study material  
+2. Practice concepts locally  
+3. Document learnings in the appropriate folder  
+4. Commit with meaningful messages  
+5. Push updates to GitHub regularly  
 
 ---
 
-## Key Learnings (So Far)
+## Key Learnings So Far
 
-- Understood development environment setup for AI workflows  
-- Learned Linux and WSL fundamentals for data science usage  
-- Practiced Git and GitHub workflows for documentation  
+- Set up development environment for AI workflows  
+- Learned Linux & WSL fundamentals  
+- Practiced Git and GitHub version control workflows  
 - Explored command-line tools and LLM integrations  
 
-*(This section will be updated periodically.)*
+*(This section will be updated periodically as learning progresses.)*
 
 ---
 
-## Doubts / Topics to Revisit
+## Topics to Revisit
 
 - Advanced Linux commands and scripting  
-- Deeper exploration of LLM tooling and workflows  
+- Deeper understanding of LLM tooling workflows  
 
 ---
 
 ## Weekly Progress Log
 
 | Week | Summary |
-|------|--------|
+|------|-------|
 | Week 1 | Environment setup, Linux & WSL, Git/GitHub, LLM CLI tools |
-| Week 2 | To be updated |
+| Week 2 | Deployment workflows, APIs, containerization, FastAPI |
+| Week 3 | LLM concepts, embeddings, vector databases, RAG |
 
 ---
 
 ## Final Note
 
-This repository serves as my **personal learning journal** and **technical documentation space** during the internship.  
-Consistency, clarity, and honest documentation are maintained to reflect real learning progress.
+This repository serves as my **personal learning journal** and **technical documentation workspace** throughout the internship.
 
----
+All entries reflect actual hands-on learning, ensuring clarity, consistency, and continuous improvement during the AI training process.
