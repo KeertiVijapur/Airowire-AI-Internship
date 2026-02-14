@@ -97,8 +97,8 @@ Each folder contains a `README.md` describing:
 | Week | Summary |
 |------|-------|
 | Week 1 | Environment setup, Linux & WSL, Git/GitHub, LLM CLI tools |
-| Week 2 | Deployment workflows, APIs, containerization, FastAPI |
-| Week 3 | LLM concepts, embeddings, vector databases, RAG |
+| Week 2 | Containerization, Podman, FastAPI, deployment workflows, GitHub Pages & Vercel |
+| Week 3 | LLM concepts, embeddings, vector databases, semantic search & RAG |
 
 ---
 
