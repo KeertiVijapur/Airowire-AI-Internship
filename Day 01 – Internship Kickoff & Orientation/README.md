@@ -1,7 +1,6 @@
 # Day 01 – Internship Kickoff & Orientation
 
 **Date:** 03 February 2026  
-**Duration:** 20 minutes  
 
 ---
 
