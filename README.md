@@ -54,16 +54,6 @@ Each folder contains a `README.md` describing:
 
 ---
 
-## Modules Covered
-
-| Module | Focus Area | Status |
-|------|-----------|--------|
-| Module 01 | Foundations & Development Tools | In Progress |
-| Module 02 | Tools & Implementation | Upcoming |
-| Module 03 | Project Work | Upcoming |
-
----
-
 ## Learning & Documentation Workflow
 
 1. Attend session / study material  
