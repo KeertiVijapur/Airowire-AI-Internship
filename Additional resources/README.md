@@ -1,5 +1,3 @@
-# Additional Learning Resources
-
 ## Development & Backend
 
 ### FastAPI Crash Course
