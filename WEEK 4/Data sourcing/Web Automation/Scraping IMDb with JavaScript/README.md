@@ -72,9 +72,3 @@ copy(data);
 * Understanding HTML structure is critical.
 * No backend or Python needed for simple scraping.
 * Data extraction depends on page class names (can break if website updates).
-
----
-
-## Important Note
-
-IMDb’s HTML structure may change, so selectors must be updated accordingly.
