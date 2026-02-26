@@ -1,74 +1,80 @@
-# Scraping IMDb with JavaScript (Browser DevTools)
+# Scraping IMDb Top 250 using JavaScript (https://www.youtube.com/watch?v=YVIKZqZIcCo)
 
 ## What I Learned
 
-In this session, I learned how to scrape data directly from a webpage using **JavaScript in the browser console**, without using Python.
+In this session, I learned how to scrape data directly from a website using **JavaScript inside the browser console**, without using Python or external libraries.
 
-Used Chrome DevTools to extract data from the **IMDb Top 250 movies page**.
+Target: **IMDb Top 250 Movies**
+
+Extracted:
+
+* Movie title
+* Year
+* Duration
+* Rating
+* Number of votes
+* Movie link
 
 ---
 
 ## Tools Used
 
-* Chrome DevTools (F12 / Inspect)
-* `document.querySelectorAll()`
-* JavaScript array methods (`map`)
-* Clipboard copy function
+* Chrome DevTools (F12 → Console)
+* JavaScript (`querySelector`, `querySelectorAll`)
+* `.map()` and arrow functions
+* `copy()` to export data
 
 ---
 
-## Basic Approach
+## Basic Workflow
 
 1. Open IMDb Top 250 page
 2. Open DevTools → Console
-3. Inspect movie title elements
-4. Use `querySelectorAll()` to select elements
-5. Extract text using `.textContent`
-6. Convert NodeList → Array
-7. Copy results to clipboard
-
-Example:
+3. Inspect HTML structure
+4. Select all movie elements using:
 
 ```javascript
-const movies = Array.from(
-  document.querySelectorAll(".cli-title")
-).map(el => el.textContent.trim());
-
-copy(movies);
+const items = document.querySelectorAll('.ipc-metadata-list-summary-item');
 ```
 
----
+5. Extract required fields using `.map()`:
 
-## Key Concepts
+```javascript
+const data = Array.from(items).map(item => ({
+  title: item.querySelector('.ipc-title__text')?.textContent,
+  link: item.querySelector('a')?.href
+}));
+```
 
-* `querySelector()` → selects first matching element
-* `querySelectorAll()` → returns NodeList
-* Must convert NodeList to array using `Array.from()`
-* `.textContent` is used to extract text
-* `map()` helps transform elements efficiently
+6. Use:
 
----
+```javascript
+copy(data);
+```
 
-## Common Issues Faced
-
-* Incorrect CSS selector
-* Using wrong pseudo-class (`nth-child`)
-* Forgetting `.textContent`
-* Trying to directly use NodeList without converting
+7. Paste into JSON → CSV converter / Excel
 
 ---
 
-## Output
+## Key Concepts Used
 
-* Extracted movie titles
-* Converted to JSON-like array
-* Later exported to CSV / Excel
+* `querySelector()` → Select single element
+* `querySelectorAll()` → Select multiple elements
+* `.map()` → Transform NodeList into structured data
+* Optional chaining `?.` → Avoid errors if element missing
+* DOM inspection via Elements tab
 
 ---
 
 ## Key Takeaways
 
-* Browser console can be used as a lightweight scraper.
-* JavaScript can directly interact with DOM elements.
-* Useful for quick extraction without writing full scraping scripts.
+* Websites can be scraped directly from browser using JavaScript.
 * Understanding HTML structure is critical.
+* No backend or Python needed for simple scraping.
+* Data extraction depends on page class names (can break if website updates).
+
+---
+
+## Important Note
+
+IMDb’s HTML structure may change, so selectors must be updated accordingly.
