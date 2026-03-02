@@ -7,8 +7,7 @@ This document summarizes the fourth session of the Tools in Data Science (TDS) c
 ## Session Details
 **Course:** Tools in Data Science (TDS)  
 **Session:** Week 1 – Session 4  
-**Mode:** Recorded Online Session  
-(https://youtu.be/thACpPPTR1I)
+**Mode:** Recorded Online Session (https://youtu.be/thACpPPTR1I)
 
 **Focus Area:** Development environment setup, Python version management, GitHub CLI, and LLM command-line tooling  
 
@@ -97,22 +96,3 @@ Summary of key concepts and clarification of doubts related to tools and workflo
 - Learned how to manage GitHub repositories using GitHub CLI  
 - Understood how command-line tools can be used to interact with Large Language Models  
 - Gained exposure to real-world use cases of LLM tools such as audio transcription  
-
----
-
-## Tools & Concepts Introduced
-- Visual Studio Code  
-- GitHub Education Pack & Copilot  
-- Homebrew  
-- pyenv  
-- UV Tool  
-- GitHub CLI  
-- Python Environment Management  
-- LLM Command-Line Tools  
-- Gemini API  
-
----
-
-## Outcome
-This session provided practical knowledge for building a robust development environment and introduced efficient workflows for managing projects and interacting with Large Language Models using command-line tools.
-
