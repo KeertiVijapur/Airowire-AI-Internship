@@ -29,9 +29,3 @@
 
 - Orientation session conducted via Google Meet
 - Shared recorded sessions and reference learning materials
-
----
-
-## Blockers
-
-- No blockers or risks encountered during the session
