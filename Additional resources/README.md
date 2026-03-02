@@ -2,8 +2,6 @@
 
 ### FastAPI Crash Course
 
-Learn how backend APIs are created and how AI applications expose endpoints.
-
 * [https://youtu.be/tLKKmouUams](https://youtu.be/tLKKmouUams)
 
 ---
@@ -11,8 +9,6 @@ Learn how backend APIs are created and how AI applications expose endpoints.
 ## Embeddings & Semantic Search
 
 ### Text Embeddings & Semantic Search
-
-Understanding how AI compares meaning instead of keywords.
 
 * [https://youtu.be/0ATCq0tNX2o](https://youtu.be/0ATCq0tNX2o)
 
@@ -22,13 +18,9 @@ Understanding how AI compares meaning instead of keywords.
 
 ### TF-IDF (Text Representation)
 
-Basic technique to convert text into numerical features.
-
 * [https://youtu.be/ATK6fm3cYfI](https://youtu.be/ATK6fm3cYfI)
 
 ### Topic Modelling – LDA
-
-How AI automatically discovers topics inside documents.
 
 * [https://youtu.be/o70ghzMcDfs](https://youtu.be/o70ghzMcDfs)
 
@@ -38,9 +30,4 @@ How AI automatically discovers topics inside documents.
 
 ### LSTM & Transformers
 
-Understanding how modern language models like GPT work.
-
 * [https://youtu.be/S27pHKBEp30](https://youtu.be/S27pHKBEp30)
-
----
-
