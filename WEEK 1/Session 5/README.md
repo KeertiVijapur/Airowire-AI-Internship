@@ -7,8 +7,7 @@ This document summarizes the fifth session of the Tools in Data Science (TDS) co
 ## Session Details
 **Course:** Tools in Data Science (TDS)  
 **Session:** Week 1 – Session 5  
-**Mode:** Recorded Online Session  
-(https://youtu.be/vBqJUhbZU3c)
+**Mode:** Recorded Online Session (https://youtu.be/vBqJUhbZU3c)
 
 **Focus Area:** Git installation, GitHub repository setup, SSH authentication, and version control workflow  
 
@@ -79,18 +78,3 @@ Demonstration of pushing local code changes to remote repositories.
 - Gained hands-on understanding of repository cloning, committing, and pushing changes  
 - Learned troubleshooting techniques for Git connection and permission issues  
 - Became familiar with GitHub Copilot and its role in development productivity  
-
----
-
-## Tools & Concepts Introduced
-- Git  
-- GitHub  
-- SSH Keys  
-- GitHub CLI  
-- Repository Version Control Workflow  
-- GitHub Copilot  
-
----
-
-## Outcome
-This session provided practical experience in setting up Git and GitHub workflows, enabling efficient version control, secure repository access, and streamlined project collaboration.
