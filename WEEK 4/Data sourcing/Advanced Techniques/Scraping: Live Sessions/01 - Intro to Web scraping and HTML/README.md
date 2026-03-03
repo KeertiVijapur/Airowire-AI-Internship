@@ -1,4 +1,4 @@
-# Intro to Web Scraping & HTML – Key Takeaways
+# Intro to Web Scraping & HTML – Key Takeaways (https://www.youtube.com/watch?v=cAriusuJsmw)
 
 ## 1️ What is Web Scraping?
 
