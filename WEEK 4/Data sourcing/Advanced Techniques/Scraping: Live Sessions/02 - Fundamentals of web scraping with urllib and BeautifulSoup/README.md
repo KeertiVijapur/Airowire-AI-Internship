@@ -108,7 +108,7 @@ Python indexing starts from 0.
 
 ---
 
-# 🏷 Step 6: Find Using Attributes (Class, Width, etc.)
+# Step 6: Find Using Attributes (Class, Width, etc.)
 
 Instead of searching all tags manually, use attributes.
 
