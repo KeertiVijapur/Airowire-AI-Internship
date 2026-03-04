@@ -1,99 +1,84 @@
 # Airowire AI Internship – Learning Journal
 
-This repository documents my learning progress, activities, and outcomes during my internship in the **Artificial Intelligence (AI) domain** at **Airowire Networks Private Limited**.
+This repository documents my structured learning journey and technical progress during my **Artificial Intelligence (AI) Internship** at **Airowire Networks Private Limited**.
 
-All learning materials, notes, and references are maintained in a **structured, week-wise and session-wise format** as part of the internship documentation requirements.
+It serves as both:
+
+* A **learning journal**
+* A **technical documentation workspace**
+* A **progress tracker** for continuous skill development
+
+All materials are maintained in a **week-wise and session-wise structured format** as part of internship documentation requirements.
 
 ---
 
 ## Internship Details
 
-- **Name:** Keerti V Vijapur  
-- **USN:** 2BL22IS018  
-- **Department:** ISE  
-- **Organization:** Airowire Networks Private Limited  
-- **Domain:** Artificial Intelligence (AI)  
-- **Internship Start Date:** 03 February 2026  
-- **Repository Type:** Learning & Technical Documentation  
+* **Name:** Keerti V Vijapur
+* **USN:** 2BL22IS018
+* **Department:** Information Science & Engineering (ISE)
+* **Organization:** Airowire Networks Private Limited
+* **Domain:** Artificial Intelligence (AI)
+* **Internship Start Date:** 03 February 2026
+* **Repository Type:** Learning Journal & Technical Documentation
 
 ---
 
 ## Objectives
 
-- Build a strong foundation in Artificial Intelligence concepts and tools  
-- Understand real-world development workflows used in AI systems  
-- Maintain clear and consistent technical documentation  
-- Track learning progress systematically  
-- Practice Git and GitHub through continuous updates  
+* Build strong foundations in AI, Data Science, and modern development workflows
+* Gain hands-on experience with real-world AI tooling
+* Understand API-driven systems and web-based data workflows
+* Practice structured documentation and technical writing
+* Develop professional Git & GitHub version control habits
+* Learn how to make data and AI systems practical and usable
 
 ---
 
-## Course Reference
+## Primary Learning Resource
 
-**Tools in Data Science (TDS):**  
-https://tds.s-anand.net/#/
+### Tools in Data Science (TDS)
 
-This course acts as the primary learning resource for environment setup, development tooling, API workflows, and modern AI practices.
+[https://tds.s-anand.net/#/](https://tds.s-anand.net/#/)
+
+This course acts as the core reference for:
+
+* Environment setup
+* Linux & WSL
+* Git workflows
+* API integrations
+* Web scraping
+* LLM tooling
+* Modern AI system design
 
 ---
 
 ## Repository Structure
 
-The repository is organized to allow easy navigation and progress tracking:
+The repository is organized for clarity and easy navigation:
 
-- **Week-wise / Session-wise learning logs**
-- **Module-wise documentation**
-- **Concept explanations and practical workflows**
-- **Reference materials and resources**
+*  Week-wise learning logs
+*  Session-wise documentation
+*  Module-based concept breakdown
+*  Practical implementations & experiments
 
 Each folder contains a `README.md` describing:
-- Key concepts learned  
-- Tools and configurations used  
-- Commands and workflows practiced  
-- Learnings and outcomes  
 
----
-
-## Learning & Documentation Workflow
-
-1. Attend session / study material  
-2. Practice concepts locally  
-3. Document learnings in the appropriate folder  
-4. Commit with meaningful messages  
-5. Push updates to GitHub regularly  
-
----
-
-## Key Learnings So Far
-
-- Set up development environment for AI workflows  
-- Learned Linux & WSL fundamentals  
-- Practiced Git and GitHub version control workflows  
-- Explored command-line tools and LLM integrations  
-
-*(This section will be updated periodically as learning progresses.)*
-
----
-
-## Topics to Revisit
-
-- Advanced Linux commands and scripting  
-- Deeper understanding of LLM tooling workflows  
+* Key concepts covered
+* Tools and technologies used
+* Commands and workflows practiced
+* Hands-on experiments
+* Learnings and outcomes
 
 ---
 
 ## Weekly Progress Log
 
-| Week | Summary |
-|------|-------|
-| Week 1 | Environment setup, Linux & WSL, Git/GitHub, LLM CLI tools |
-| Week 2 | Containerization, Podman, FastAPI, deployment workflows, GitHub Pages & Vercel |
-| Week 3 | LLM concepts, embeddings, vector databases, semantic search & RAG |
+| Week   | Summary                                                                               |
+| ------ | ------------------------------------------------------------------------------------- |
+| Week 1 | Environment setup, Linux & WSL, Git/GitHub, CLI tools, AI workflow basics             |
+| Week 2 | Containerization, Podman, FastAPI, deployment workflows, static hosting               |
+| Week 3 | LLM concepts, embeddings, vector databases, RAG systems                               |
+| Week 4 | Web scraping, cookies, API workflows, structured JSON extraction, advanced techniques |
 
----
-
-## Final Note
-
-This repository serves as my **personal learning journal** and **technical documentation workspace** throughout the internship.
-
-All entries reflect actual hands-on learning, ensuring clarity, consistency, and continuous improvement during the AI training process.
+*(Table will be updated as internship progresses.)*
