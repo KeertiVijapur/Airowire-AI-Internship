@@ -1,4 +1,4 @@
-# Data Aggregation in Excel
+# Data Aggregation in Excel (https://youtu.be/NkpT0dDU8Y4)
 
 This section covers how **Excel can be used to aggregate and visualize data** to discover trends and insights. Using a COVID-19 dataset containing daily cases and deaths across countries, Excel features such as **Pivot Tables, Color Scales, Sparklines, and Data Bars** help summarize and interpret large datasets efficiently.
 
