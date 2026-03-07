@@ -1,4 +1,4 @@
-# Data Preparation in the Shell
+# Data Preparation in the Shell (https://www.youtube.com/watch?v=XEdy4WK70vU)
 
 This module demonstrates how **UNIX shell commands** can be used for fast and efficient **data preparation and analysis**. Shell tools are widely used in data science because they are lightweight, fast, and allow quick exploration of large datasets directly from the command line.
 
